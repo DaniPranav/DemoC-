@@ -1,0 +1,15 @@
+C:\Users\Pranav.Dani\source\repos\DemoApp1\bin\Debug\net6.0\DemoApp1.exe
+C:\Users\Pranav.Dani\source\repos\DemoApp1\bin\Debug\net6.0\DemoApp1.deps.json
+C:\Users\Pranav.Dani\source\repos\DemoApp1\bin\Debug\net6.0\DemoApp1.runtimeconfig.json
+C:\Users\Pranav.Dani\source\repos\DemoApp1\bin\Debug\net6.0\DemoApp1.dll
+C:\Users\Pranav.Dani\source\repos\DemoApp1\bin\Debug\net6.0\DemoApp1.pdb
+C:\Users\Pranav.Dani\source\repos\DemoApp1\obj\Debug\net6.0\DemoApp1.csproj.AssemblyReference.cache
+C:\Users\Pranav.Dani\source\repos\DemoApp1\obj\Debug\net6.0\DemoApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranav.Dani\source\repos\DemoApp1\obj\Debug\net6.0\DemoApp1.AssemblyInfoInputs.cache
+C:\Users\Pranav.Dani\source\repos\DemoApp1\obj\Debug\net6.0\DemoApp1.AssemblyInfo.cs
+C:\Users\Pranav.Dani\source\repos\DemoApp1\obj\Debug\net6.0\DemoApp1.csproj.CoreCompileInputs.cache
+C:\Users\Pranav.Dani\source\repos\DemoApp1\obj\Debug\net6.0\DemoApp1.dll
+C:\Users\Pranav.Dani\source\repos\DemoApp1\obj\Debug\net6.0\refint\DemoApp1.dll
+C:\Users\Pranav.Dani\source\repos\DemoApp1\obj\Debug\net6.0\DemoApp1.pdb
+C:\Users\Pranav.Dani\source\repos\DemoApp1\obj\Debug\net6.0\DemoApp1.genruntimeconfig.cache
+C:\Users\Pranav.Dani\source\repos\DemoApp1\obj\Debug\net6.0\ref\DemoApp1.dll
